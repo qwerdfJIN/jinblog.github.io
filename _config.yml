@@ -286,6 +286,7 @@ defaults:
     values:
       author_profile: true
       read_time: true
+      layout: default
       comments: true
       share: #true
       related: true
