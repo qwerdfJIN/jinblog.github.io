@@ -80,9 +80,9 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
+#twitter:
   username               :
-facebook:
+#facebook:
   username               :
   app_id                 :
   publisher              :
