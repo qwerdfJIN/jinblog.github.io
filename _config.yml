@@ -107,7 +107,7 @@ author:
   name             : "JIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학습일지"
-  location         : "Somewhere"
+  location         : 
   email            :
   links:
     - label: "Email"
