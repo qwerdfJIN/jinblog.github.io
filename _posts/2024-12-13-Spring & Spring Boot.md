@@ -1,5 +1,5 @@
 ---
-title: "About Spring & Spring Boot"
+title: "자바 알아보기 - Spring & Spring Boot"
 layout: single
 toc: false
 toc_sticky: true
