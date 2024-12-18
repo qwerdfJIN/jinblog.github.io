@@ -4,7 +4,7 @@ layout: single
 toc: false
 toc_sticky: true
 toc_label: 
-categories: [사전캠프, Quest Answer]
+categories: [Pre-Camp, Quest Answer]
 author_profile: false
 ---
 
