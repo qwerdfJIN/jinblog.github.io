@@ -4,7 +4,7 @@ layout: single
 toc: false
 toc_sticky: true
 toc_label: 
-categories: [Starter Note]
+categories: [사전캠프, Starter Note]
 author_profile: false
 ---
 
