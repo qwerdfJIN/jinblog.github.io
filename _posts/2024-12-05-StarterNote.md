@@ -1,6 +1,7 @@
 ---
 title: "Spring 9기 스타터노트"
 layout: single
+permalink: /"Spring 9기 스타터노트"/
 toc: false
 toc_sticky: true
 toc_label: 
