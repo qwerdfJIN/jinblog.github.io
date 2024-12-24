@@ -1,6 +1,7 @@
 ---
 title: "자바 알아보기 - Spring & Spring Boot"
 layout: single
+permalink: /자바 알아보기 - Spring & Spring Boot/
 toc: false
 toc_sticky: true
 toc_label: 
